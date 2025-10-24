@@ -4,8 +4,6 @@ This is an end-to-end machine learning project that tackles a critical question:
 
 This repository contains a complete, deployed web application that uses a trained AI model to predict water quality. It's built to transform complex chemical data into a simple, actionable answer: **Safe** or **Unsafe**.
 
-**[You can see the live application here!](https://shivamsingh96-deployement-of-automatic-water-qualit-main-8ftkls.streamlit.app/)**
-
 ![Application Preview](water-testing.jpg)
 
 ## 🎯 The Core Mission
