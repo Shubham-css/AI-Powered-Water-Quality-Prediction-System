@@ -1,0 +1,55 @@
+# -------------------------
+# Python + Streamlit ML Project
+# -------------------------
+
+# Virtual environments
+.venv/
+.venv312/
+env/
+venv/
+
+# Python cache and compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook checkpoints
+*.ipynb_checkpoints/
+
+# Data and model files
+*.csv
+*.xlsx
+*.pkl
+*.joblib
+*.h5
+
+# Logs and temporary files
+*.log
+*.tmp
+*.bak
+*.swp
+
+# Environment and secrets
+.env
+*.env
+
+# IDE / editor settings
+.vscode/
+.idea/
+
+# Streamlit cache and config
+.streamlit/
+
+# System files (Windows / macOS)
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Build / distribution
+build/
+dist/
+*.egg-info/
+
+# Backup or test folders
+__test__/
+backup/
