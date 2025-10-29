@@ -79,8 +79,11 @@ def main():
     result = " "
     if st.button("Predict Quality of water"):
         result = prediction(aluminium, ammonia, arsenic, barium, cadmium, chloramine, chromium, copper,
-               bacteria, viruses, lead, nitrates, nitrites, perchlorate, radium, silver, uranium)
-        st.success("Status of new water sample is: {}".format(result))
+                            bacteria, viruses, lead, nitrates, nitrites, perchlorate, radium, silver, uranium)
+        if result == 'Safe':
+            st.success("Status of new water sample is: Safe")
+        else:
+            st.error("Status of new water sample is: Unsafe")
 
 
 if __name__=='__main__':
