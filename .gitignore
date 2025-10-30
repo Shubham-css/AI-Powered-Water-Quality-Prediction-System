@@ -17,9 +17,7 @@ __pycache__/
 *.ipynb_checkpoints/
 
 # Data and model files
-*.csv
 *.xlsx
-*.pkl
 *.joblib
 *.h5
 
