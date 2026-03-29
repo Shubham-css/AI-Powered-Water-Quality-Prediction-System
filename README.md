@@ -152,7 +152,7 @@ This includes:
 
 ## 🔗 Website Link
 
-[https://github.com/Shubham-css/AI-Powered-Water-Quality-Prediction-System](https://water-quality-prediction-system-ml-mini-project.streamlit.app/)
+https://water-quality-prediction-system-ml-mini-project.streamlit.app/
 
 ---
 
