@@ -159,8 +159,6 @@ https://water-quality-prediction-system-ml-mini-project.streamlit.app/
 ## 👨‍💻 Author
 
 **Shubham Fulwani**
-<br>
-https://github.com/Shubham-css
 
 ---
 
