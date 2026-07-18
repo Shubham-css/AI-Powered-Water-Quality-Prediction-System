@@ -106,12 +106,6 @@ streamlit run main.py
 
 ---
 
-## 📸 Application Preview
-
-![Application Preview](water-testing.jpg)
-
----
-
 ## 🔬 Research & Development
 
 The complete research process is documented in:
